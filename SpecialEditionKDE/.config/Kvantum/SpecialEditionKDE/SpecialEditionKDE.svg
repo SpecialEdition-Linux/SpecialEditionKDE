@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="450"
+   height="1e3"
+   version="1"
+   id="svg11812"
+   sodipodi:docname="SpecialEditionKDE.svg"
+   inkscape:version="1.1 (c4e8f9ed74, 2021-05-24)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview11814"
+     pagecolor="#6f6f6f"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="true"
+     showgrid="false"
+     inkscape:zoom="17.206383"
+     inkscape:cx="105.89093"
+     inkscape:cy="660.04574"
+     inkscape:window-width="1461"
+     inkscape:window-height="792"
+     inkscape:window-x="42"
+     inkscape:window-y="28"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg11812" />
+  <style id="current-color-scheme" type="text/css">
+    .ColorScheme-Text { color:#444444; }
+    .ColorScheme-Background { color:#ffffff; }
+    .ColorScheme-Highlight { color:#D4AF37; }
+    .ColorScheme-HighlightAlt { color:#FFD700; }
+  </style>
+  <path
+     id="combo-focused"
+     class="ColorScheme-Highlight"
+     d="m328 91v18h24v-18z"
+     fill="currentColor"
+     stroke-width=".43301" />
+  <g
+     id="combo-focused-topleft"
+     transform="matrix(.5 0 0 .5 231.93 -324.93)">
+    <path
+       d="m190.14 825.86c-2.216 0-4 1.784-4 4h4z"
+       fill="currentColor"
+       class="ColorScheme-Highlight"
+       id="path9545" />
+    <path
+       transform="translate(81.14,758.86)"
+       d="m109 65c-3.324 0-6 2.676-6 6h2c0-2.216 1.784-4 4-4z"
+       fill="none"
+       stroke-width="1.5"
+       id="path9547" />
+  </g>
+  <g
+     id="combo-focused-top"
+     transform="matrix(.75 0 0 .5 158.83 -324.93)">
+    <path
+       d="m192.14 825.86v4h32v-4z"
+       fill="currentColor"
+       class="ColorScheme-Highlight"
+       id="path9550" />
+  </g>
+  <g id="combo-focused-topright" transform="matrix(.5 0 0 .5 279.93 -324.93)">
+    <path
+       d="m224.14 825.86v4h4c0-2.216-1.784-4-4-4z"
+       fill="currentColor"
+       class="ColorScheme-Highlight"
+       id="path9553" />
+    <path
+       transform="translate(81.14,758.86)"
+       d="m143 65c-2.216 0-4 1.784-4 4h2c0-1.108.892-2 2-2z"
+       fill="none"
+       stroke-width="1.5"
+       id="path9555" />
+  </g>
+  <g id="combo-focused-left" transform="matrix(.5 0 0 .75 231.93 -601.9)">
+    <path
+       d="m186.14 828.86v24h4v-24z"
+       fill="currentColor"
+       class="ColorScheme-Highlight"
+       id="path9558" />
+  </g>
+  <g id="combo-focused-center" transform="matrix(.75 0 0 .75 158.83 -601.9)">
+    <path
+       d="m192.14 828.86v24h32v-24z"
+       fill="currentColor"
+       class="ColorScheme-Highlight"
+       id="path9561" />
+  </g>
+  <g id="combo-focused-right" transform="matrix(.5 0 0 .75 279.93 -601.9)">
+    <path
+       d="m224.14 828.86v24h4v-24z"
+       fill="currentColor"
+       class="ColorScheme-Highlight"
+       id="path9564" />
+  </g>
+  <g id="combo-focused-bottomleft" transform="matrix(.5 0 0 .5 231.93 -312.93)">
+    <path
+       d="m186.14 852.86v4c2.216 0 4-1.784 4-4z"
+       fill="currentColor"
+       class="ColorScheme-Highlight"
+       id="path9567" />
+    <path
+       transform="translate(81.14,758.86)"
+       d="m105 94c0 2.216 1.784 4 4 4v-2c-1.108 0-2-.892-2-2z"
+       fill="none"
+       stroke-width="1.5"
+       id="path9569" />
+  </g>
+  <g id="combo-focused-bottom" transform="matrix(.75 0 0 .5 158.83 -312.93)">
+    <path
+       d="m192.14 852.86v4h32v-4z"
+       fill="currentColor"
+       class="ColorScheme-Highlight"
+       id="path9572" />
+  </g>
+  <g id="combo-focused-bottomright" transform="matrix(.5 0 0 .5 279.93 -312.93)">
+    <path
+       d="m224.14 852.86c0 2.216 1.784 4 4 4v-4z"
+       fill="currentColor"
+       class="ColorScheme-Highlight"
+       id="path9575" />
+    <path
+       transform="translate(81.14,758.86)"
+       d="m143 94c0 1.108-.892 2-2 2v2c2.216 0 4-1.784 4-4z"
+       fill="none"
+       stroke-width="1.5"
+       id="path9577" />
+  </g>
+  <path
+     id="button-default-active"
+     class="ColorScheme-Highlight"
+     d="m308 107v18h18v-18z"
+     fill="currentColor"
+     stroke-width=".43301" />
+  <g
+     id="button-default-active-topleft"
+     transform="matrix(.375 0 0 .375 214.95 -248.2)">
+    <path
+       d="m248.14 945.86c-2.216 0-4 1.784-4 4h4z"
+       fill="currentColor"
+       class="ColorScheme-Highlight"
+       id="path5262" />
+    <path
+       transform="translate(81.14,758.86)"
+       d="m167 187c-3.324 0-6 2.676-6 6h2c0-2.216 1.784-4 4-4z"
+       fill="none"
+       stroke-width="1.5"
+       id="path5264" />
+  </g>
+  <g
+     id="button-default-active-top"
+     transform="matrix(.75 0 0 .375 116.14 -248.2)">
+    <path
+       d="m256.14 945.86v4h24v-4z"
+       fill="currentColor"
+       class="ColorScheme-Highlight"
+       id="path5267" />
+  </g>
+  <g
+     id="button-default-active-topright"
+     transform="matrix(.375 0 0 .375 268.45 -248.2)">
+    <path
+       d="m272.14 945.86v4h4c0-2.216-1.784-4-4-4z"
+       fill="currentColor"
+       class="ColorScheme-Highlight"
+       id="path5270" />
+    <path
+       transform="translate(81.14,758.86)"
+       d="m191 187c-2.216 0-4 1.784-4 4h2c0-1.108.892-2 2-2z"
+       fill="none"
+       stroke-width="1.5"
+       id="path5272" />
+  </g>
+  <g
+     id="button-default-active-left"
+     transform="matrix(.375 0 0 .75 214.95 -665.4)">
+    <path
+       d="m244.14 948.86v24h4v-24z"
+       fill="currentColor"
+       class="ColorScheme-Highlight"
+       id="path5275" />
+  </g>
+  <g
+     id="button-default-active-center"
+     transform="matrix(.75 0 0 .75 116.14 -665.4)">
+    <path
+       d="m256.14 948.86v24h24v-24z"
+       fill="currentColor"
+       class="ColorScheme-Highlight"
+       id="path5278" />
+  </g>
+  <g
+     id="button-default-active-right"
+     transform="matrix(.375 0 0 .75 268.45 -665.4)">
+    <path
+       d="m272.14 948.86v24h4v-24z"
+       fill="currentColor"
+       class="ColorScheme-Highlight"
+       id="path5281" />
+  </g>
+  <g
+     id="button-default-active-bottomleft"
+     transform="matrix(.375 0 0 .375 214.95 -194.7)">
+    <path
+       d="m244.14 972.86v4c2.216 0 4-1.784 4-4z"
+       fill="currentColor"
+       class="ColorScheme-Highlight"
+       id="path5284" />
+    <path
+       transform="translate(81.14,758.86)"
+       d="m163 214c0 2.216 1.784 4 4 4v-2c-1.108 0-2-.892-2-2z"
+       fill="none"
+       stroke-width="1.5"
+       id="path5286" />
+  </g>
+  <g
+     id="button-default-active-bottom"
+     transform="matrix(.75 0 0 .375 116.14 -194.7)">
+    <path
+       d="m256.14 972.86v4h24v-4z"
+       fill="currentColor"
+       class="ColorScheme-Highlight"
+       id="path5289" />
+  </g>
+  <g
+     id="button-default-active-bottomright"
+     transform="matrix(.375 0 0 .375 268.45 -194.7)">
+    <path
+       d="m272.14 972.86c0 2.216 1.784 4 4 4v-4z"
+       fill="currentColor"
+       class="ColorScheme-Highlight"
+       id="path5292" />
+    <path
+       transform="translate(81.14,758.86)"
+       d="m191 214c0 1.108-.892 2-2 2v2c2.216 0 4-1.784 4-4z"
+       fill="none"
+       stroke-width="1.5"
+       id="path5294" />
+  </g>
+  <path
+     id="progress-pattern-normal"
+     class="ColorScheme-HighlightAlt"
+     d="m308 425v18h18v-18z"
+     fill="currentColor"
+     stroke-width=".43301" />
+  <path
+     id="progress-normal"
+     class="ColorScheme-Highlight"
+     d="m308 407v18h18v-18z"
+     fill="currentColor"
+     stroke-width=".43301" />
+</svg>
